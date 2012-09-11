@@ -64,7 +64,7 @@ machines.
 
 15
 00:01:13,453 --> 00:01:16,844
-It really wasn't that we were going to build 
+It really wasn't that we were gonna build 
 billion dollar businesses.
 
 16
@@ -177,7 +177,7 @@ IBM never fired anyone, requiring only
 
 40
 00:02:55,425 --> 00:02:59,014
-the undying loyalty to the company and a strict 
+the undying loyalty to the company and the strict 
 dress code.
 
 41
@@ -375,7 +375,7 @@ wannabe Paul Simon,
 
 83
 00:05:49,254 --> 00:05:52,246
-spent twenty-five years marching in lockstep 
+spent twenty-five years marching in step 
 at IBM.
 
 84
@@ -393,7 +393,7 @@ to agree what they want to have for lunch.
 
 87
 00:06:00,422 --> 00:06:01,951
-You know... I mean it's how can I...
+*** You know... I mean it's how can I...
 
 88
 00:06:01,951 --> 00:06:03,280
@@ -459,8 +459,8 @@ companies like Apple.
 
 101
 00:06:39,841 --> 00:06:43,564
-(commercial) the Apple 2, small inexpensive 
-and simple to use...
+(commercial) the Apple 2, small, inexpensive,
+simple to use...
 
 102
 00:06:44,694 --> 00:06:48,084
@@ -483,7 +483,7 @@ machines of that class and they loved them.
 
 106
 00:07:00,049 --> 00:07:02,376
-They were very happy with them and they 
+and they were very happy with them and they 
 were showing up
 
 107
@@ -552,8 +552,9 @@ Bill Lowe ran a small lab in Boca Raton Florida.
 
 121
 00:08:00,939 --> 00:08:04,795
-- Hello Bob nice to see you.
-Nice to see you again. I tried to match 
+- *** Hello Bob nice to see you.
+- Nice to see you again.
+- I tried to match 
 
 122
 00:08:04,795 --> 00:08:07,786
@@ -580,13 +581,13 @@ department heads and said:
 
 127
 00:08:21,613 --> 00:08:26,266
-He kind of said well, what should we do, 
+He kinda said well, what should we do, 
 and I said well,
 
 128
 00:08:26,332 --> 00:08:30,520
 we think we know what we would like to do if 
-we were going to proceed with our own product
+we were gonna proceed with our own product
 
 129
 00:08:30,587 --> 00:08:35,705
@@ -599,7 +600,7 @@ to do anything, I mean it's just a fact of life.
 
 131
 00:08:39,295 --> 00:08:42,486
-And I said no sir, we can provide with product 
+And I said no sir, we can provide you with product 
 in a year.
 
 132
@@ -679,7 +680,7 @@ Was it a hard sell?
 
 148
 00:09:43,841 --> 00:09:50,887
-- Mr. Carey bought it. And as result of him 
+- Mr. Carey bought it. And as a result of him 
 buying it, we got through it.
 
 149
@@ -698,7 +699,7 @@ go for a record.
 
 152
 00:10:00,859 --> 00:10:03,916
-Once IBM decided to do a personal computer
+Once IBM had decided to do a personal computer
 
 153
 00:10:03,916 --> 00:10:07,107
@@ -824,7 +825,7 @@ Gary Kildall, then aged 39,
 
 178
 00:11:41,567 --> 00:11:48,081
-a computer Ph.D., and a 24 year old Harvard 
+a computer science Ph.D., and a 24 year old Harvard 
 drop-out - Bill Gates.
 
 179
@@ -1008,7 +1009,7 @@ a competitive spirit ran deep.
 
 217
 00:14:20,373 --> 00:14:23,431
-I ended up spending Memorial Day Weekend 
+I ended up spending the Memorial Day Weekend 
 with him
 
 218
@@ -1053,7 +1054,7 @@ jigsaw puzzle that he was working on,
 
 227
 00:14:54,275 --> 00:14:58,131
-and he really wanted to talk about how he did 
+and he really wanted to talk about how like he did 
 this jigsaw puzzle in like four minutes,
 
 228
@@ -1114,7 +1115,7 @@ The scene is set:
 240
 00:15:45,593 --> 00:15:51,842
 in California laid back Gary Kildall already making
-the best selling PC operating system: CPM.
+the best selling PC operating system: CP/M.
 
 241
 00:15:52,240 --> 00:15:56,428
@@ -1178,7 +1179,7 @@ Steve Ballmer was a Harvard roommate of Gates.
 
 254
 00:16:43,292 --> 00:16:47,015
-He'd just joined Microsoft and would end up 
+He had just joined Microsoft and would end up 
 its third billionaire.
 
 255
@@ -1202,7 +1203,7 @@ you're the only other guy here who can wear a suit.
 
 259
 00:17:00,310 --> 00:17:01,972
-A lot of these computer fairs discussions would get 
+*** A lot of these computer fairs discussions would get 
 around to, you know, I...
 
 260
@@ -1243,7 +1244,7 @@ and that we wouldn't hear any secrets and so forth.
 
 268
 00:17:29,558 --> 00:17:31,087
- He signed it immediately.
+He signed it immediately.
 
 269
 00:17:31,087 --> 00:17:35,009
@@ -1252,7 +1253,7 @@ funny agreements that sort of said
 
 270
 00:17:35,009 --> 00:17:39,330
-I...IBM could do whatever they wanted, 
+I… IBM could do whatever they wanted, 
 whenever they wanted
 
 271
@@ -1270,7 +1271,7 @@ Jack Sams was looking for a package from Microsoft
 274
 00:17:48,703 --> 00:17:52,692
 containing both the BASIC computer language 
-and an Operating System.
+and an operating system.
 
 275
 00:17:53,223 --> 00:17:55,616
@@ -1302,7 +1303,7 @@ he didn't have the rights to do that
 
 281
 00:18:13,631 --> 00:18:17,819
-and that it was not...he said but I think it's ready, 
+and that it was not… he said but I think it's ready, 
 I think that Gary's got it ready to go.
 
 282
@@ -1480,15 +1481,15 @@ And we were already out on a limb,
 319
 00:20:31,105 --> 00:20:37,215
 because we had licensed them not only Basic, 
-but Fortran, Cobol Assembler er,
+but Fortran, Cobol, Assembler er,
 
 320
 00:20:37,481 --> 00:20:39,209
-Typing Tutor and Venture.
+Typing Tutor, Adventure.
 
 321
 00:20:39,209 --> 00:20:42,001
-And basically every - every product 
+Basically every - every product 
 the company had
 
 322
@@ -1536,7 +1537,7 @@ an operating system
 331
 00:21:14,706 --> 00:21:17,498
 a very rudimentary operating system that was 
-kind of like CPM.
+kind of like CP/M.
 
 332
 00:21:17,830 --> 00:21:22,018
@@ -1555,11 +1556,11 @@ the deal with IBM,
 
 335
 00:21:29,929 --> 00:21:33,851
-was, well, adapted from Gary Kildall's CPM.
+was, well, adapted from Gary Kildall's CP/M.
 
 336
 00:21:34,050 --> 00:21:37,839
-So I took a CPM manual that I'd gotten from the 
+So I took a CP/M manual that I'd gotten from the 
 Retail Computer Store five dollars
 
 337
@@ -1593,7 +1594,7 @@ operating system.
 343
 00:22:07,686 --> 00:22:14,400
 Microsoft and IBM called it PC DOS 1.0 and under 
-any name it looks an awful lot like CPM.
+any name it looks an awful lot like CP/M.
 
 344
 00:22:14,400 --> 00:22:18,654
@@ -1602,7 +1603,7 @@ CPM 86
 
 345
 00:22:18,654 --> 00:22:21,247
-and frankly it�s very hard to tell the difference 
+and frankly itÍs very hard to tell the difference 
 between the two.
 
 346
@@ -1617,7 +1618,7 @@ floppy dirive is labelled A in PC DOS
 
 348
 00:22:30,287 --> 00:22:32,348
-and and C in CPM.
+and and C in CP/M.
 
 349
 00:22:32,547 --> 00:22:37,134
@@ -1752,7 +1753,7 @@ IBM PC was developed.
 376
 00:24:33,530 --> 00:24:37,452
 Here the nerds from Seattle joined forces 
-with the suits of corporate
+with the suits of corporate America
 
 377
 00:24:37,851 --> 00:24:41,839
@@ -1861,7 +1862,7 @@ Nobody was ever fired for buying IBM.
 399
 00:26:14,371 --> 00:26:19,822
 Now companies could put PCs with the name they
-trusted on desks from Wisconsin to Wall Street.
+trusted on desks from *** Wisconsin to Wall Street.
 
 400
 00:26:19,822 --> 00:26:26,071
@@ -1985,7 +1986,7 @@ whatever term you want to use,
 
 426
 00:28:07,311 --> 00:28:11,831
-and so really, the primary upside on the deal 
+and so really, the primary upside on the deal
 we had with IBM,
 
 427
@@ -2271,7 +2272,7 @@ the company
 488
 00:32:16,522 --> 00:32:19,713
 - and that can include but not limited to termination 
-immediately do you understand that?
+immediately. Do you understand that?
 
 489
 00:32:19,646 --> 00:32:20,909
@@ -2475,7 +2476,7 @@ a guaranteed-virgin ROM BIOS chip.
 532
 00:34:58,120 --> 00:35:04,369
 Each new clonemaker, free of IBM's big overhead,
-took another bite of the big blue business.
+took another bite of the Big Blue's business.
 
 533
 00:35:05,233 --> 00:35:09,687
@@ -2521,7 +2522,7 @@ every desk and in every home,
 
 542
 00:35:36,875 --> 00:35:40,664
-running Microsoft software, it was actually 
+running Microsoft software. It was actually 
 coming true.
 
 543
@@ -2704,7 +2705,7 @@ we were going to ride the bear
 580
 00:38:15,415 --> 00:38:20,002
 because the bear was the biggest, the most 
-important you just had to be with the bear,
+important. You just had to be with the bear,
 
 581
 00:38:20,002 --> 00:38:24,190
@@ -2777,7 +2778,7 @@ about how we got paid.
 
 596
 00:39:17,835 --> 00:39:21,889
-How much money we made off OS 2, how much 
+How much money we made off OS/2, how much 
 they did. How many K-LOCs did you do?
 
 597
@@ -2811,7 +2812,7 @@ crinkle up at the thought of the whole thing.
 603
 00:39:47,216 --> 00:39:51,670
 When I took over in '89 there was an enormous 
-amount of resources working on OS 2,
+amount of resources working on OS/2,
 
 604
 00:39:52,135 --> 00:39:54,262
@@ -2933,7 +2934,7 @@ Was that Microsoft's fault?
 
 629
 00:41:44,410 --> 00:41:48,531
-You know, maybe some ,but IBM's not 
+You know, maybe some, but IBM's not 
 blameless there either.
 
 630
@@ -2971,7 +2972,7 @@ blindly follow IBM.
 
 637
 00:42:19,109 --> 00:42:23,430
-If Bill had to choose between OS2, IBM's 
+If Bill had to choose between OS/2, IBM's 
 new operating system and Windows,
 
 638
@@ -2984,7 +2985,7 @@ We said ooh, IBM's probably not going to like this.
 
 640
 00:42:27,950 --> 00:42:29,546
-This is going to threaten OS 2.
+This is going to threaten OS/2.
 
 641
 00:42:29,546 --> 00:42:33,335
@@ -3060,7 +3061,7 @@ to disagree
 
 656
 00:43:31,367 --> 00:43:36,419
-on the future progress of OS 2 and Windows.
+on the future progress of OS/2 and Windows.
 
 657
 00:43:37,349 --> 00:43:42,601
@@ -3182,7 +3183,7 @@ by accident
 
 682
 00:45:28,760 --> 00:45:31,751
-I mean no-one, no-one... I mean those two 
+I mean no-one, no-one… I mean those two 
 companies today are worth 
 
 683
@@ -3244,7 +3245,7 @@ put people under, you know.
 
 695
 00:46:35,832 --> 00:46:41,815
-And unfortunately, ah... that's happened a lot.
+And unfortunately, ah… that's happened a lot.
 
 696
 00:46:42,147 --> 00:46:45,870
@@ -3444,4 +3445,4 @@ about, it was big Bill Gates.
 00:49:46,746 --> 00:50:27,029
 subtitles by fabiusX
 subs@fabiushouse.com
-
+fixed by ♯FInglish team © 2012
